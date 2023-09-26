@@ -88,7 +88,7 @@ body{
 }
 .apresentacao__links__link:hover{
     background-color: var(--cor-hover);
-    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+    overflow: hidden;
 }
 .apresentacao__imagem{
     width: 50%;
