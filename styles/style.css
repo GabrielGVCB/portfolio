@@ -89,11 +89,17 @@ body{
 .apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
     box-shadow: #363535;
-    transition: all 0.3s;
-    left: 0;
-    top: 0;
+    color: #000000;
     border-radius:30px;
-}
+    
+    &:after {
+      transition: all 0.3s;
+      left: 0;
+      top: 0;
+      border-radius:30px;
+    }
+  }
+
 .apresentacao__imagem{
     width: 50%;
 }
