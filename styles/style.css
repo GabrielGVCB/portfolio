@@ -91,7 +91,7 @@ body{
     box-shadow: #363535;
     text-transform: uppercase;
     transform: scaleX(1.4) scaleY(1.6);
-    opacity: 0;
+    opacity: 90;
 }
 
 .apresentacao__imagem{
