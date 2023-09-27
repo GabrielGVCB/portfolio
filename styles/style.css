@@ -88,7 +88,7 @@ body{
 }
 .apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
-    overflow: hidden;
+    box-shadow: #363535;
 }
 .apresentacao__imagem{
     width: 50%;
