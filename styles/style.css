@@ -90,7 +90,8 @@ body{
     background-color: var(--cor-hover);
     text-transform: none;
     transform: scaleX(1.09) scaleY(1.09);
-    outline-color: #ffffff;
+    opacity: 100;
+    outline-color: #010431;
 }
 
 .apresentacao__imagem{
