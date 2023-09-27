@@ -90,7 +90,7 @@ body{
     background-color: var(--cor-hover);
     box-shadow: #363535;
     text-transform: none;
-    transform: scaleX(1.15) scaleY(1.15);
+    transform: scaleX(1.09) scaleY(1.09);
     opacity: 90;
 }
 
