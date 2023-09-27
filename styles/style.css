@@ -96,10 +96,12 @@ body{
 
 .apresentacao__imagem{
     width: 50%;
+    border-radius: 15px;
 }
 
 .apresentacao__imagem__dois{
     width: 50%;
+    border-radius:15px ;
 }
 
 .rodape{
