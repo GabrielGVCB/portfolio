@@ -88,6 +88,7 @@ body{
 }
 .apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
+    box-shadow: #ffffff;
     text-transform: none;
     transform: scaleX(1.09) scaleY(1.09);
     opacity: 100;
